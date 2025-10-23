@@ -1,0 +1,1 @@
+%appdata%/DassaultSystemes/CATSettings
